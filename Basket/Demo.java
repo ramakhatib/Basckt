@@ -1,4 +1,4 @@
-
+git add .
 package Basket;
 
 
@@ -8,6 +8,7 @@ public class Demo {
         b.add(2.4);
         b.add(5.6);
         System.out.println(b.toString());
+	b.add(8.0);
         
        
     }
